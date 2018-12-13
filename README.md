@@ -2,7 +2,7 @@
 ## Ladder Level
 Level Requirements
 ## SW 설계 및 구현
-SW 구현을 위한 설계 역량
+SW 구현을 위한 설계역량
 1. effective java 3nd
 2. java 8 in Action
 3. Agile Java
